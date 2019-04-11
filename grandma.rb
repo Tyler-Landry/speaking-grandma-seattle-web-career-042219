@@ -1,3 +1,22 @@
+def speak_to_grandma(phrase)
+  if phrase = "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOO PUMPKIN!"
+  if phrase = "Hi Nana, how are you?"
+    puts "HUH?! SPEAK UP, SONNY!"
+  end
+  end
+end
+
+
+
+
+
+
+
+
+
+
+
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
